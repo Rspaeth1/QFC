@@ -1169,6 +1169,8 @@ class Trader:
         if state.timestamp == 0:
             self.data = {}
             self.variables = {}
+        else:
+            self.deserialize(state.traderData) # added after the fact... cant believe I forgot this in the submission
         
         
         for key in self.data.keys():
