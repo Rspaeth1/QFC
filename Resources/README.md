@@ -1,0 +1,1 @@
+Someone from the prosperity 3 competition shared all of these resources with me. There is a lot of great reading in here and will take a while to get through, but afterwards you will be thinking like a true quant.
